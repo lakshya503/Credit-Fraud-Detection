@@ -1,2 +1,2 @@
 # Credit-Fraud-Detection
-A project that tells a story of using autoencoder technology to make a business decision to set the threshold to flag credit card fraud. The first part was the exploring the dataset followed by fitting the model and then estimating the best threshold. Contains graphs to estimate the statistical significance and shortcomings of the results. 
+I wanted to explore Autoencoders since I hadn't used it before this project. Also, to create a story, I wanted to understand how business decisions are made based on what the data tells. This project bridges the two spheres and makes for an interesting insight. 
